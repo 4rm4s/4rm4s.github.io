@@ -1,0 +1,159 @@
+body{
+    
+}
+ header,nav,main,footer{
+            width: 800px;
+            margin-left: 100px;
+            margin-right: 300px;
+            margin: 0 auto;
+            padding: 10px;
+            color:#F4F1BB;
+        }
+    
+header{
+    background-color: #eD6a5a;
+    height: 150px;
+    text-align: center;
+}
+nav{
+    background-color: #9bc1bc;
+    height: 72px;
+}
+main{
+    background-color: #e6ebe0;
+}
+footer{
+    background-color: #36c9c6;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+section{
+    width: 650px;
+    height: 300px;
+    margin: 20px auto;
+    background-color: #36c9c6;
+}
+table{
+    width: 600px;
+    border-collapse: collapse;
+     margin: 0 auto
+    
+}
+table, table td, table th{
+    border: 3px solid #F4F1BB;
+}
+
+table th{
+    background-color: blueviolet;
+    color: aquamarine;
+    height: 60px;
+}
+table td{
+    background-color: azure;
+    color: chartreuse;
+}
+img{
+    width: 150px;
+    height: auto;
+}
+
+#tabla_2, #tabla_2 td{
+    background-color: transparent;
+    border: none;
+}
+body nav ul {
+    list-style-type: none;
+}
+INICIO   {
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+INICIO DOS:link     , body, nav, ul li a:visited{
+    color: #2203FF;
+}
+RECOLOREO:hover {
+    color: #005E10;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+
+#tabla_zebra {
+    background-color: transparent;
+
+
+
+}
+
+#tabla_zebra td {
+    background-color: transparent;
+}
+
+#tabla_zebra tbody tr:nth-child(even) {
+    background-color: #2203FF;
+    color: #D823E9;
+}
+#tabla_zebra tbody tr:nth-child(odd) {
+    background-color: #E76A09;
+}
+#tabla_hover {
+    width: 90%;
+}
+#tabla_hover tbody td {
+    background-color: transparent;
+}
+#tabla_hover tbody tr td:hover  {
+    background-color: #869405;
+}
+
+nav li a {
+}
+#form1 {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: #AF1013;
+}
+#form1 label {
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+#form1 input[type=text]   {
+    width: 93%;
+}
+
+#form1 #mensaje {
+    width: 93%;
+}
+#form1 .formato_input  {
+    background-color: #0FF1B5;
+    padding-bottom: 10px;
+    color: #D823E9;
+}
+
+#form1 #submit {
+    margin: 20px auto;
+    display: block;
+    border-radius: 20px;
+    padding: 15px;
+    background-color: #E6FD3D;
+}
+
+
+
+#form1 #email {
+    width: 93%;
+}
+body main section {
+    height: 0%;
+    text-align: center;
+}
+.filtro_grises {
+}
