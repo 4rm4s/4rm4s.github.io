@@ -1,0 +1,20 @@
+@charset "utf-8";
+body  {
+    background-color: #096D43;
+}
+footer {
+    background-color: #B8D9F2;
+}
+.nav-styile {
+    background-color: #B8D9F2;
+    color: #08F030;
+}
+.nav-link {
+    color: #0B642E;
+}
+.btn-style {
+    background-color: #D55356;
+}
+h1 {
+    text-align: center;
+}
